@@ -1,4 +1,4 @@
-### Hi there, rinas here 👋
+### Hi there, Rinas here 👋
 
 <!--
 **onerinas/onerinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
