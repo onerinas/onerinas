@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [TIL DEV](https://tildev.carrd.co)
+- 🔭 I’m currently working on [HIGHSCORE.domains](https://highscore.domains), [TIL DEV](https://tildev.carrd.co)
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on [TIL DEV](https://tildev.carrd.co)
+- 🔭 I'm currently working on [HIGHSCORE.domains](https://highscore.domains), [No Sugar Today](https://no-sugar-today.com) & [TIL.DEV](https://tildev.carrd.co)
 - 🌱 I’m currently learning Flutter by building [HiFive](https://tryhifive.co)
 - 📫 How to reach me: [rinas@hey.com](https://mailto:rinas@hey.com)
 - ⚡ Fun fact: It has two words, Fun has three letters whereas fact has four letters 🤷🙈🤓
