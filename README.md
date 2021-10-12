@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-🤩 Launched for fun: [HIGHSCORE.domains](https://highscore.domains), [No Sugar Today](https://no-sugar-today.com)
+🤩 Side projects: [HIGHSCORE.domains](https://highscore.domains), [No Sugar Today](https://no-sugar-today.com)
 
 🌱 I’m currently learning Flutter by building [HiFive](https://tryhifive.co)
 
