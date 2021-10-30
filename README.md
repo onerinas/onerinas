@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Flutter by building [HiFive](https://tryhifive.co)
 
-⏳ Future projects: [TIL.DEV](https://til.dev), [One Simple Blog](https://twitter.com/onesimpleblog)
+⏳ Future projects: [TIL.DEV](https://til.dev)
 
 📫 How to reach me: [rinas@hey.com](https://mailto:rinas@hey.com) or in Twitter: [@onerinas](https://twitter.com/onerinas)
 
