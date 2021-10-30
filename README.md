@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 
-🤩 Side projects: [HIGHSCORE.domains](https://highscore.domains), [No Sugar Today](https://no-sugar-today.com)
+🤩 Side projects: [HIGHSCORE.domains](https://highscore.domains) (rails), [No Sugar Today](https://no-sugar-today.com) (rails)
 
-🌱 I’m currently learning Flutter by building [HiFive](https://tryhifive.co)
+🌱 I’m currently learning Flutter by building [HiFive](https://tryhifive.co) (backend in rails)
 
 ⏳ Future projects: [TIL.DEV](https://til.dev)
 
