@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🤩 Side projects: [HIGHSCORE.domains](https://highscore.domains), [TIL.DEV](https://til.dev)
 
-🌱 I’m currently learning Flutter by building [HiFive](https://tryhifive.co)
+🌱 I’m currently learning Flutter by building [HiFive](https://tryhifive.com)
 
 📫 How to reach me: [rinas@hey.com](https://mailto:rinas@hey.com) or in Twitter: [@onerinas](https://twitter.com/onerinas)
 
