@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-🤩 Side projects: [HIGHSCORE.domains](https://highscore.domains), [WhatsNew.co](https://whatsnew.co0, [TIL.DEV](https://til.dev)
+🤩 Side projects: [HIGHSCORE.domains](https://highscore.domains), [WhatsNew.co](https://whatsnew.co), [TIL.DEV](https://til.dev)
 
 🌱 I’m currently learning Flutter by building [HiFive](https://tryhifive.com)
 
