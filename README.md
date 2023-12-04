@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 -->
 
 
-👨‍💻 Software developer @InlineManual   
+👨‍💻 Software developer [@Inline Manual](http://inlinemanual.com)
 
-🤓 Co-founder & CTO @lil_hoppers   
+🤓 Co-founder & CTO [@Lil' Hoppers](https://lilhoppers.in)
 
-🥾 Bootstrapping @onesimpleblog, @tawsum 
+🥾 Bootstrapping [@One Simple Blog](https://onesimpleblog.com), [@Tawsum](https://tawsum.com/)
 
 🤩 Side projects: HIGHSCORE.domains, WhatsNew.co, TIL.dev
 
-📫 How to reach me: rinas@hey.com or in 𝕏: @onerinas
+📫 How to reach me: rinas@hey.com or in 𝕏: [@onerinas](https://x.com/onerinas)
 
 ⚡ Fun fact: It has two words, Fun has three letters whereas fact has four letters 🤷🙈🤓
