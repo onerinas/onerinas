@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 
-👨‍💻 Software developer @[Inline Manual](http://inlinemanual.com)
+👨‍💻 Software developer at [Inline Manual](http://inlinemanual.com)
 
-🤓 Co-founder & CTO @[Lil' Hoppers](https://lilhoppers.in)
+🤓 Co-founder & CTO: [Lil' Hoppers](https://lilhoppers.in)
 
 🥾 Bootstrapping [One Simple Blog](https://onesimpleblog.com), [Tawsum](https://tawsum.com/)
 
