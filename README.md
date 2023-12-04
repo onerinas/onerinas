@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🥾 Bootstrapping [@One Simple Blog](https://onesimpleblog.com), [@Tawsum](https://tawsum.com/)
 
-🤩 Side projects: HIGHSCORE.domains, WhatsNew.co, TIL.dev
+🤩 Side projects: [TIL.dev](https://til.dev), [WhatsNew.co](https://whatsnew.co), [HIGHSCORE.domains](https://highscore.domains)
 
 📫 How to reach me: rinas@hey.com or in 𝕏: [@onerinas](https://x.com/onerinas)
 
