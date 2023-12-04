@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 -->
 
 
-🤩 Side projects: [HIGHSCORE.domains](https://highscore.domains), [WhatsNew.co](https://whatsnew.co), [TIL.DEV](https://til.dev)
+👨‍💻 Software developer @InlineManual   
 
-🌱 I’m currently learning Flutter by building [HiFive](https://tryhifive.com)
+🤓 Co-founder & CTO @lil_hoppers   
 
-📫 How to reach me: [rinas@hey.com](https://mailto:rinas@hey.com) or in Twitter: [@onerinas](https://twitter.com/onerinas)
+🥾 Bootstrapping @onesimpleblog, @tawsum 
+
+🤩 Side projects: HIGHSCORE.domains, WhatsNew.co, TIL.dev
+
+📫 How to reach me: rinas@hey.com or in 𝕏: @onerinas
 
 ⚡ Fun fact: It has two words, Fun has three letters whereas fact has four letters 🤷🙈🤓
