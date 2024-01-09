@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-👨‍💻 Software developer at [Inline Manual](http://inlinemanual.com)
+👨‍💻 Software developer at [Inline Manual](http://inlinemanual.com), [Inline Help](http://inlinehelp.com)
 
 🤓 Co-founder & CTO: [Lil' Hoppers](https://lilhoppers.in)
 
