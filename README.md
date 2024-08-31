@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 👋 Cofounder: [HiFive](https://tryhifive.com?ref=github_onerinas)
 
-🤩 Passion projects: [WhatsNew.co](https://whatsnew.co), [TILcards](https://tilcards.com) [Vanilla Blogging](https://vanillablogging.com)
+🤩 Passion projects: [WhatsNew.co](https://whatsnew.co) for product updates, [TILcards](https://tilcards.com) for learning something new daily, and [Vanilla Blogging](https://vanillablogging.com) for blogging.
 
 📫 How to reach me: rinas@hey.com or in 𝕏: [@onerinas](https://x.com/onerinas)
 
