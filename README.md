@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 👨‍💻 Software developer at [Inline Manual](http://inlinemanual.com), [Inline Help](http://inlinehelp.com)
 
-🤓 Co-founder & CTO: [Lil' Hoppers](https://lilhoppers.in)
+👋 Cofounder: [HiFive](https://tryhifive.com?ref=github_onerinas)
 
-🥾 Bootstrapping [One Simple Blog](https://onesimpleblog.com)
-
-🤩 Side projects: [TIL.dev](https://til.dev), [WhatsNew.co](https://whatsnew.co)
+🤩 Passion projects: [WhatsNew.co](https://whatsnew.co), [TILcards](https://tilcards.com) [Vanilla Blogging](https://vanillablogging.com)
 
 📫 How to reach me: rinas@hey.com or in 𝕏: [@onerinas](https://x.com/onerinas)
 
