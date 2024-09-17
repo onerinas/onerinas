@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👨‍💻 Software developer at [Inline Manual](http://inlinemanual.com), [Inline Help](http://inlinehelp.com)
 
-👋 Cofounder: [HiFive](https://tryhifive.com?ref=github_onerinas), an app to help you lose weight, overcome obesity, and build a healthy lifestyle.
+👋 Cofounder: [HiFive](https://tryhifive.com?ref=github_onerinas), daily challenges to improve your health.
 
 🤩 Passion projects: 
   - 🎉 [WhatsNew.co](https://whatsnew.co) for product updates.
