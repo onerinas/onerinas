@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🤩 Passion projects: 
   - 🎉 [WhatsNew.co](https://whatsnew.co) catch up on product updates.
-  - 💡 [TIL.DEV](https://til.dev) TIL posts and snippets from developers.
+  - 💡 [TIL.DEV](https://til.dev) Developers sharing Today I learned (TIL) posts and code snippets.
   - 📝 [Vanilla Blogging](https://vanillablogging.com) a minimalist blogging platform. 
 
 📫 How to reach me: rinas@hey.com or in 𝕏: [@onerinas](https://x.com/onerinas)
