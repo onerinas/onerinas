@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 👋 Cofounder: [HiFive](https://tryhifive.com?ref=github_onerinas), daily challenges to improve your health.
 
 🤩 Passion projects: 
-  - 🎉 [WhatsNew.co](https://whatsnew.co) for product updates.
-  - 💡 [TILcards](https://tilcards.com) for learning something new daily.
-  - 📝 [Vanilla Blogging](https://vanillablogging.com) for blogging.
+  - 🎉 [WhatsNew.co](https://whatsnew.co) catch up on product updates.
+  - 💡 [TIL.DEV](https://til.dev) learn from developers all over the world.
+  - 📝 [Vanilla Blogging](https://vanillablogging.com) a minimalist blogging platform. 
 
 📫 How to reach me: rinas@hey.com or in 𝕏: [@onerinas](https://x.com/onerinas)
 
