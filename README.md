@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-👨‍💻 Software developer at [Inline Manual](http://inlinemanual.com), [Inline Help](http://inlinehelp.com)
+👨‍💻 Product Engineer at [Inline Manual](http://inlinemanual.com), 
 
 👋 Cofounder: [HiFive](https://tryhifive.com?ref=github_onerinas), daily challenges to improve your health.
 
