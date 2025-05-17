@@ -19,11 +19,6 @@ Here are some ideas to get you started:
 
 👋 Cofounder: [HiFive](https://tryhifive.com?ref=github_onerinas), daily challenges to improve your health.
 
-🤩 Passion projects: 
-  - 🎉 [WhatsNew.co](https://whatsnew.co) A super simple changelog tool to share product updates.
-  - 💡 [TIL.DEV](https://til.dev) Developers sharing Today I learned (TIL) posts and code snippets.
-  - 📝 [One Simple Blog](https://onesimpleblog.com) A minimalist blogging platform. 
-
 📫 How to reach me: hello@onerinas.com
 
 ⚡ Fun fact: It has two words, Fun has three letters whereas fact has four letters 🤷🙈🤓
