@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 👨‍💻 Product Engineer at [Inline Manual](http://inlinemanual.com), 
 
-👋 Cofounder: [HiFive](https://tryhifive.com?ref=github_onerinas), daily challenges to improve your health.
+🧑‍🔬 Side projects: 
+  - [HiFive](https://tryhifive.com?ref=github_onerinas) (iOS app), to form healthy habits.
+  - [Paperstick.app](https://paperstick.app?ref=github_onerinas), to share product updates.
 
-📫 How to reach me: hello@onerinas.com
+📫 How to reach me: rinas@paperstick.io
 
 ⚡ Fun fact: It has two words, Fun has three letters whereas fact has four letters 🤷🙈🤓
