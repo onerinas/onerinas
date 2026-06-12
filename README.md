@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-👨‍💻 Product Engineer at [Inline Manual](http://inlinemanual.com), 
+👨‍💻 Product Engineer at [Inline Manual](http://inlinemanual.com)
 
 🧑‍🔬 Side projects: 
   - [HiFive](https://tryhifive.com?ref=github_onerinas) (iOS app), to form healthy habits.
