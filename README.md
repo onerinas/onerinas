@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   - [HiFive](https://tryhifive.com?ref=github_onerinas) (iOS app), to form healthy habits.
   - [Paperstick.app](https://paperstick.app?ref=github_onerinas), to share product updates.
 
-📝 [blog.onerinas.com](https://blog.onerinas.com)
+📝 [blog.onerinas.com](https://blog.onerinas.com?ref=github_onerinas)
 
 📫 How to reach me: rinas@paperstick.io
 
